@@ -1,3 +1,9 @@
+fastfetch (2.1.2-1) unstable; urgency=medium
+
+  * Rebuild for revyos
+
+ -- Han Gao <gaohan@iscas.ac.cn>  Fri, 27 Oct 2023 12:01:33 +0800
+
 fastfetch (2.1.2-deepin) stable; urgency=medium
 
   * New upstream version
